@@ -40,11 +40,11 @@ The Upload feature initializes all users within a class when given an Excel file
 
 <img width="1440" height="659" alt="Screenshot 2025-08-06 at 9 22 37 AM" src="https://github.com/user-attachments/assets/614378e9-ac74-4cf9-b2d9-db5a8ae67215" />
 
+### Demos
 
+The Demo feature displays all the available time slots for a given teaching staff. Students are able to enroll in a time slot, with their name replacing the 'TBA' text.
 
-
-
-
+<img width="1440" height="660" alt="Screenshot 2025-08-06 at 9 24 09 AM" src="https://github.com/user-attachments/assets/0f3be57e-90f4-47de-8f22-abfbf8ebb1f3" />
 
 
 
