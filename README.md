@@ -10,6 +10,43 @@ Helpdesk is an application designed to enable students to interact with professo
 The following were used to build the Helpdesk application...
 
 
-# Features
+## Features
+
+The following are a list of features that have been built for use by various types of users (Students, GTA, UTA, etc.). Some features will be excluded from this documentation due to it's sensitive nature. 
+
+### Users
+
+The Users feature showcases all users currently enrolled in the course, essentially a class list. This feature allows you to mimic a user's experience by replicating what the Helpdesk application looks like to them based on their user permissions. 
+
+<img width="1440" height="674" alt="Screenshot 2025-08-06 at 9 12 36 AM" src="https://github.com/user-attachments/assets/53f8db62-bbfc-4ebd-8c27-69673d1847d9" />
+
+### Tickets
+
+The Tickets feature displays all currently open tickets submitted by a student. A ticket is an inquiry made by a student regarding some aspect of the course. This feature was made for teaching staff to be able to answer student questions.
+
+<img width="1440" height="739" alt="Screenshot 2025-08-06 at 9 19 59 AM" src="https://github.com/user-attachments/assets/16e953f6-fbce-4ede-8a05-8ea3838b634b" />
+
+### Overview
+
+The Overview feature displays all tickets of any status for a set assignment. Teaching staff can view current and past inquiries made by students grouped by assignments. 
+
+<img width="1440" height="672" alt="Screenshot 2025-08-06 at 9 22 21 AM" src="https://github.com/user-attachments/assets/0efa0261-e596-4109-a214-634bd0ced15c" />
+
+<img width="1440" height="670" alt="Screenshot 2025-08-06 at 9 22 29 AM" src="https://github.com/user-attachments/assets/4547064b-b5e0-4aa9-a826-7109cd82f63f" />
+
+### Upload
+
+The Upload feature initializes all users within a class when given an Excel file with student data. 
+
+<img width="1440" height="659" alt="Screenshot 2025-08-06 at 9 22 37 AM" src="https://github.com/user-attachments/assets/614378e9-ac74-4cf9-b2d9-db5a8ae67215" />
+
+
+
+
+
+
+
+
+
 
 
