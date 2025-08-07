@@ -46,7 +46,7 @@ The Overview feature displays all tickets of any status for a set assignment. Te
 
 ### Upload
 
-The Upload feature initializes all users within a class when given an Excel file with student data. 
+The Upload feature initializes all users within a class when given a .csv file with student data. 
 
 <img width="1440" height="659" alt="Screenshot 2025-08-06 at 9 22 37 AM" src="https://github.com/user-attachments/assets/614378e9-ac74-4cf9-b2d9-db5a8ae67215" />
 
