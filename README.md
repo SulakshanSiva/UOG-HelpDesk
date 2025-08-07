@@ -22,7 +22,7 @@ The following were used to build the Helpdesk application...
 
 ## Features
 
-The following are a list of features that have been built for use by various types of users (Students, GTA, UTA, etc.). Some features will be excluded from this documentation due to it's sensitive nature. 
+The following are a list of features that have been built for use by various types of users (Students, GTA, UTA, etc.). Some features will be excluded from this documentation due to it's data sensitive nature. 
 
 ### Users
 
